@@ -100,7 +100,7 @@ const Layout = ({ children }) => {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" noWrap component="div">
-            Cloud Craft
+            Application
           </Typography>
         </Toolbar>
       </AppBar>
