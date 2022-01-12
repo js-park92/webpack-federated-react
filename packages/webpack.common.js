@@ -37,4 +37,7 @@ module.exports = {
       template: path.join("./public", "index.html"),
     }),
   ],
+  resolve: {
+    "@components": path.resolve("src/components"),
+  },
 };
